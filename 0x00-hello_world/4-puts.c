@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main-entry
- * return - o
+ * main - this is the main body of the project
+ * return - this is where all the values in the main are used to return
  */
 int main(void)
 {
